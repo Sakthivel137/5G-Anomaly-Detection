@@ -1,4 +1,4 @@
-# Member 3 - 5G Anomaly Detection Dashboard
+##5G Anomaly Detection 
 
 ## Purpose
 
@@ -72,8 +72,8 @@ member3_5G_anomaly_detection/
 +-- README.md
 +-- requirements.txt
 +-- data/
-¦   +-- features/
-¦       +-- all_runs_features.csv
+Â¦   +-- features/
+Â¦       +-- all_runs_features.csv
 +-- models/
     +-- xgboost_model.pkl
     +-- feature_columns.txt
